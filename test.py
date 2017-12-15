@@ -2,3 +2,4 @@
 #-*- coding: utf-8 -*-
 
 print "test hello"
+print "test hello"
